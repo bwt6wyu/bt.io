@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bryson Taylor</title>
+    <link>https://bt.io/</link>
+    <description>Recent content on Bryson Taylor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Feb 2023 21:35:52 -0500</lastBuildDate><atom:link href="https://bt.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://bt.io/posts/post/</link>
+      <pubDate>Mon, 13 Feb 2023 21:35:52 -0500</pubDate>
+      
+      <guid>https://bt.io/posts/post/</guid>
+      <description>This is some content!</description>
+    </item>
+    
+  </channel>
+</rss>
